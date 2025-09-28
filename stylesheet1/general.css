@@ -1,0 +1,13 @@
+p {
+  margin: 0;
+  line-height: 18px;
+}
+
+body {
+  margin: 0;
+  padding-bottom: 3000px;
+  padding-left: 96px;
+  padding-top: 80px;
+  padding-right: 24px;
+  background-color: rgb(235, 235, 235);
+}
